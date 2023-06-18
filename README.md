@@ -10,10 +10,10 @@ Research (VIRTUAL REALITY / EMBEDDED SOFTWARE / ML): My 1.5 years of research at
 to help humans avoid threats and moving obstacles with the help of an exoskeleton!
 
 
-Tootly (SYSTEM DESIGN / FRONTEND):
+Tootly (SYSTEM DESIGN / FRONTEND): Full System Design 
 
 
-AirBnb Price Predictor (ML/AI):
+AirBnb Price Predictor (ML/AI): Using unsupervised and supervised learning, we can generate a price the owner should charge for their property based on factors like neighborhood, location, room type, and number of total reviews
 
 
 Multivariable Calculus Bot (PYTHON): I couldn't find any easy-to-use tools for calculating some of the harder/ weirder problems in Math 2551, so I made my own
