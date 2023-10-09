@@ -16,5 +16,17 @@ For source code and to use the algorithm, view the Java file!
 
 <img height="300" src="/Users/fardeen/Desktop/Screen Shot 2023-06-11 at 2.57.06 PM.png" width="540"/>
 
-To test the 
+Unity Work:
+
+One of the labs goals was to make a model to decide how to move an exo user based on his/her proximity to threats of varying danger levels. I created a simulation in Unity that calculates how much resistance or assistance to give an exo user based on their posiiton and distance from moving cars using Artificial Potential Fields and Unity.
+
+<img height="300" src="/Users/fardeen/Desktop/UnityPic2.png" width="540"/>
+
+A goal of the exo is to also dodge intelligent human-like enemies. In order to simulate this, I used Unity and the MLAgents Library to create and train AI enemies to track down the exo like a human would with three difficulty levels. I then had the exo try to dodge these intelligent enemies for as long as it could using algorithms.
+
+<img height="300" src="/Users/fardeen/Desktop/UnityPic1.png" width="540"/>
+
+
+
+
 

@@ -6,7 +6,7 @@ Table of Contents:
 Social Pay (FULLSTACK): A concept where I view social concepts as financial assets that can be bought and sold and that have a value. Fully open source!
 
 
-Research (VIRTUAL REALITY / EMBEDDED SOFTWARE / ML): My 1.5 years of research at GT's EPIC Lab where I worked on some (classified) applications of robotics, ML, and VR
+Research (UNITY / VIRTUAL REALITY / EMBEDDED SOFTWARE / ML / MATLAB): My 1.5 years of research at GT's EPIC Lab where I worked on some (classified) applications of robotics, ML, and VR
 to help humans avoid threats and moving obstacles with the help of an exoskeleton!
 
 
