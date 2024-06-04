@@ -9,22 +9,22 @@ However, here's all the cool code, videos, and pictures I CAN share!
 
 A Picture of me in the Exo:
 
-<img height="600" src="./FardeenExoPic.jpg" width="450"/>
+<img height="600" src="/Users/fardeen/Documents/FardeenOpenSource/G.T.-Materials-Institute - Unity-Embedded Software-VR-ML-MATLAB/FardeenExoPic.jpg" width="450"/>
 
 An exemplified application of my open source LURD algorithm on an overhead drone tracking a soldier.
 For source code and to use the algorithm, view the Java file!
 
-<img height="300" src="./MapofObstacles.png" width="540"/>
+<img height="300" src="/Users/fardeen/Documents/FardeenOpenSource/G.T.-Materials-Institute - Unity-Embedded Software-VR-ML-MATLAB/MapofObstacles.png" width="540"/>
 
 Unity Work:
 
 One of the labs goals was to make a model to decide how to move an exo user based on his/her proximity to threats of varying danger levels. I created a simulation in Unity that calculates how much resistance or assistance to give an exo user based on their posiiton and distance from moving cars using Artificial Potential Fields and Unity.
 
-<img height="300" src="./UnityPic2.png" width="540"/>
+<img height="300" src="/Users/fardeen/Documents/FardeenOpenSource/G.T.-Materials-Institute - Unity-Embedded Software-VR-ML-MATLAB/UnityPic2.png" width="540"/>
 
 A goal of the exo is to also dodge intelligent human-like enemies. In order to simulate this, I used Unity and the MLAgents Library to create and train AI enemies to track down the exo like a human would with three difficulty levels. I then had the exo try to dodge these intelligent enemies for as long as it could using algorithms.
 
-<img height="300" src="./UnityPic1.png" width="540"/>
+<img height="300" src="/Users/fardeen/Documents/FardeenOpenSource/G.T.-Materials-Institute - Unity-Embedded Software-VR-ML-MATLAB/UnityPic1.png" width="540"/>
 
 
 
